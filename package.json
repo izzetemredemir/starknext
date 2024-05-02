@@ -1,7 +1,6 @@
 {
   "name": "starknext",
-  "version": "0.1.0",
-  "private": true,
+  "version": "7.3.2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,7 +10,8 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "next": "14.2.3",
+    "react-tailwind-proje": "^0.1.0"
   },
   "devDependencies": {
     "typescript": "^5",
